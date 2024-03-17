@@ -41,6 +41,12 @@ npm install
 npm start
 ```
 
+## Hosting
+
+- Cloudflare
+
+  🔗  [TITAN FITCLUB - Visit site](https://90a0ae74.titanfitclub.pages.dev/)
+
 ## Output
 ![Reference Image](src/assets/1.png)
 
